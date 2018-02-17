@@ -1,0 +1,38 @@
+@import '../../styles.scss';
+
+header{
+    display: flex;
+    background-color: #d86f52;
+    font-size: 20px;
+    justify-content: space-between;
+    color: #cee4d0;
+    padding-left: 5%;
+    height: 45px;
+    width: 100%;
+    box-sizing: border-box;
+    
+
+}
+.nome{
+    margin-top: 7px;
+}
+
+input{
+    height: 30px;
+    font-size: 18px;
+    border: 1px solid #88c7a0;
+    width: 90%;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 0 5px;
+    box-sizing: border-box;
+    background-color: #cee4d0;
+
+}
+
+div{
+    display: flex;
+    align-content: right;
+    margin-top: 7px;
+    
+}
